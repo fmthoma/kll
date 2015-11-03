@@ -13,16 +13,17 @@ Date = 2015-09-20;
 # But, the DefaultMap can start to duplicate keys without any issues
 
 # Left
-U"Function1" : None;
+U"Function1" : U"Lock1";
 U"Function2" : U"Shift" + U"Delete"; # Cut
 U"Function3" : U"Ctrl"  + U"Insert"; # Copy
 U"Function4" : U"Shift" + U"Insert"; # Paste
-U"Function5" : U"Lock1";
+U"Function5" : U"Function2"; # Shift Layer 2
 U"Function6" : None;
+U"Function7" : None;
 
 # Right
-U"Function7" : None;
-U"Function8" : U"Function1"; # Shift Layer 1
+U"Function8" : None;
 U"Function9" : None;
 U"Function10" : None;
-U"Function11" : None;
+U"Function11" : U"Lock1";
+U"Function12" : None;
