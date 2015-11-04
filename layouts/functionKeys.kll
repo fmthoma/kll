@@ -14,10 +14,10 @@ Date = 2015-09-20;
 
 # Left
 U"Function1" : U"Lock1";
-U"Function2" : U"Shift" + U"Delete"; # Cut
+U"Function2" : U"Shift" + U"Insert"; # Paste
 U"Function3" : U"Ctrl"  + U"Insert"; # Copy
-U"Function4" : U"Shift" + U"Insert"; # Paste
-U"Function5" : U"Function2"; # Shift Layer 2
+U"Function4" : U"Shift" + U"Delete"; # Cut
+U"Function5" : U"Lock2"; # Shift Layer 2
 U"Function6" : None;
 U"Function7" : None;
 
