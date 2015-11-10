@@ -37,7 +37,7 @@ U"K" : U"Up";
 U"L" : U"Right";
 U"Semicolon" : U"Lock1";
 
-U"M"      : U"Home";
-U"Comma"  : U"PageDown";
-U"Period" : U"PageUp";
-U"Slash"  : U"End";
+U"N"      : U"Home";
+U"M"      : U"PageDown";
+U"Comma"  : U"PageUp";
+U"Period" : U"End";
