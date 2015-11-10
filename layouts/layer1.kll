@@ -35,6 +35,7 @@ U"H" : U"Left";
 U"J" : U"Down";
 U"K" : U"Up";
 U"L" : U"Right";
+U"Semicolon" : U"Lock1";
 
 U"M"      : U"Home";
 U"Comma"  : U"PageDown";
