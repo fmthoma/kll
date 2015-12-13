@@ -22,8 +22,16 @@ U"Function6" : None;
 U"Function7" : None;
 
 # Right
-U"Function8" : None;
-U"Function9" : None;
+U"Function8"  : U"Function1";
+U"Function9"  : U"F4";
 U"Function10" : None;
-U"Function11" : U"Lock1";
-U"Function12" : U"Function1";
+U"Function11" : None;
+U"Function12" : U"LCtrl" + U"LShift" + U"F12";
+U"Shift" + U"Function9"  : U"LAlt" + U"F7";
+U"Shift" + U"Function10" : None;
+U"Shift" + U"Function11" : None;
+U"Shift" + U"Function12" : None;
+U"Ctrl" + U"Function9"  : U"LShift" + U"F10";
+U"Ctrl" + U"Function10" : U"Ctrl" + U"LShift" + U"F10";
+U"Ctrl" + U"Function11" : U"LShift" + U"F9";
+U"Ctrl" + U"Function12" : U"F9";
